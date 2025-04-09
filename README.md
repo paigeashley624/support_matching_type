@@ -19,7 +19,7 @@ For each input CSV:
 
 ---
 
-## 💡 How It Works
+## How It Works
 In each below example you will need to update the input CSV #
 
 Match users based on email run: 
